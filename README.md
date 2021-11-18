@@ -34,3 +34,7 @@ This repository contains the custom discordjs bot used to display important info
 
 **/leaderboard**
 *Will return the top ranked MIKES by win percentage, total purse, and total points*
+
+## Packages Used
+
+discordjs, web3, forever
